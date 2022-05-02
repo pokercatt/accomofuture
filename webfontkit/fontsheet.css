@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "e-ukraine_headlight";
+  src: url("e-ukrainehead-light-webfont.woff2") format("woff2"),
+    url("e-ukrainehead-light-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e-ukraine_headregular";
+  src: url("e-UkraineHead-Regular.woff2") format("woff2"),
+    url("e-UkraineHead-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "e-ukrainelight";
+  src: url("e-ukraine-light-webfont.woff2") format("woff2"),
+    url("e-ukraine-light-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
